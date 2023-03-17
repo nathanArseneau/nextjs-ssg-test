@@ -1,0 +1,9 @@
+{
+  "index": {
+    "seo": {
+      "title": "My test page",
+      "description": "This is a test page, this page description should be rendered by the server"
+    },
+    "welcome": "welcome"
+  }
+}
